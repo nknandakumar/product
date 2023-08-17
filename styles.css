@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.nav-item{
+    align-items:center;
+}
+.lead{
+    text-align: center;
+    font-weight: bold;
+}
+  .features  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
